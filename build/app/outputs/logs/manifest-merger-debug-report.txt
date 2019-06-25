@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from [:location_permissions] /Users/square/development/Dev/Clima-Flutter/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator] /Users/square/development/Dev/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:google_api_availability] /Users/square/development/Dev/Clima-Flutter/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/1ad5c811b071d2fcafec6c79e0620ae0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/da0d1c168b18b6c46d9a24ffba15f6a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/09b2506c24a5152a65c9d51acb1ed097/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/59a094e0bba160adf2a0ba6bc2a8e0d8/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/c590b86e26d5ae6c882e989910ac875a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/faba0307fc14862c34918305aef0b4b1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ce86755dccfa01453abaaf4afbb873e4/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/de95283a2a1f7694bbae0e46ca6ace25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7e0ad791d5323d57971d55658a89d4cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/b6966c7a2ad853dd86629b1e90ee4728/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d8ded0c1eb6cc1a7388f93369301c489/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cc5db9c9d9ee58c9752e666000ef503d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/46967aa5988d0ad9e6c1c6b3992026bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6f1e8f457ab1c3b14a7c50dd8b8ff17c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/b82c7f9a21104305c8f8eff9174858b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/cd7f0282d38346b5c0fed8f512e33b05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/580817abd7ee7500a51f844c2fdafb5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/1aab5f48489a0095d079a08ac3b510eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3abf5abc05a85508edcf5cdaa3a4ca14/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/a4d0b2721ee2c630a3d7556d7b7a2f4b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9754bbca42487292b23127bae1475aa9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/60d1270c018a2981d72de30d5d49395e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/62277390ce331d9ebf2724f30086b0f7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/78433c0a4f3f15d5b3e05ab5079f1620/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/e70161d27092924eb6751c9a5fea80d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/90059ef4d928a8c6b205204ad3b6aa1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/23da7e46e63a85e3393467a9fa6b368c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/8b30836b7f0ceaa75271c632791cbb7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e70c8c3d09a8cebca0085ec0313d1c59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/cbae059f24a93dad8c68f5cc478c9925/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8e025e86327165798076dc3ef0a46006/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/0f6483f735fbddba1928b412696dd041/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/a19b5549fa107b3793809287adb92515/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/9d2c1fbcb2b30331c4ab0ee3f6c55d7f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:3:5-79
+MERGED from [:geolocator] /Users/square/development/Dev/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+MERGED from [:geolocator] /Users/square/development/Dev/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:3:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:4:5-81
+MERGED from [:geolocator] /Users/square/development/Dev/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+MERGED from [:geolocator] /Users/square/development/Dev/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:4:22-78
+application
+ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:11:5-34:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/09b2506c24a5152a65c9d51acb1ed097/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/09b2506c24a5152a65c9d51acb1ed097/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/59a094e0bba160adf2a0ba6bc2a8e0d8/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/59a094e0bba160adf2a0ba6bc2a8e0d8/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/c590b86e26d5ae6c882e989910ac875a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/c590b86e26d5ae6c882e989910ac875a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/faba0307fc14862c34918305aef0b4b1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/faba0307fc14862c34918305aef0b4b1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ce86755dccfa01453abaaf4afbb873e4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ce86755dccfa01453abaaf4afbb873e4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/62277390ce331d9ebf2724f30086b0f7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/62277390ce331d9ebf2724f30086b0f7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/78433c0a4f3f15d5b3e05ab5079f1620/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/78433c0a4f3f15d5b3e05ab5079f1620/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/62277390ce331d9ebf2724f30086b0f7/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:13:9-30
+	android:icon
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:14:9-43
+	android:name
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:12:9-57
+activity#co.appbrewery.clima.MainActivity
+ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:15:9-33:20
+	android:launchMode
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:17:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:21:13-55
+	android:configChanges
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:19:13-144
+	android:theme
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:16:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:26:13-28:40
+	android:value
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:28:17-37
+	android:name
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:27:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:30:17-68
+	android:name
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [:location_permissions] /Users/square/development/Dev/Clima-Flutter/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /Users/square/development/Dev/Clima-Flutter/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /Users/square/development/Dev/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /Users/square/development/Dev/Clima-Flutter/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/square/development/Dev/Clima-Flutter/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/square/development/Dev/Clima-Flutter/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/1ad5c811b071d2fcafec6c79e0620ae0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/1ad5c811b071d2fcafec6c79e0620ae0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.appcompat:appcompat:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/da0d1c168b18b6c46d9a24ffba15f6a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/da0d1c168b18b6c46d9a24ffba15f6a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/09b2506c24a5152a65c9d51acb1ed097/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/09b2506c24a5152a65c9d51acb1ed097/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/59a094e0bba160adf2a0ba6bc2a8e0d8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/59a094e0bba160adf2a0ba6bc2a8e0d8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/c590b86e26d5ae6c882e989910ac875a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/c590b86e26d5ae6c882e989910ac875a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/faba0307fc14862c34918305aef0b4b1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/faba0307fc14862c34918305aef0b4b1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ce86755dccfa01453abaaf4afbb873e4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ce86755dccfa01453abaaf4afbb873e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/de95283a2a1f7694bbae0e46ca6ace25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/de95283a2a1f7694bbae0e46ca6ace25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7e0ad791d5323d57971d55658a89d4cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7e0ad791d5323d57971d55658a89d4cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/b6966c7a2ad853dd86629b1e90ee4728/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/b6966c7a2ad853dd86629b1e90ee4728/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d8ded0c1eb6cc1a7388f93369301c489/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d8ded0c1eb6cc1a7388f93369301c489/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cc5db9c9d9ee58c9752e666000ef503d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cc5db9c9d9ee58c9752e666000ef503d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/46967aa5988d0ad9e6c1c6b3992026bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/46967aa5988d0ad9e6c1c6b3992026bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6f1e8f457ab1c3b14a7c50dd8b8ff17c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6f1e8f457ab1c3b14a7c50dd8b8ff17c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/b82c7f9a21104305c8f8eff9174858b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/b82c7f9a21104305c8f8eff9174858b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/cd7f0282d38346b5c0fed8f512e33b05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/cd7f0282d38346b5c0fed8f512e33b05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/580817abd7ee7500a51f844c2fdafb5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/580817abd7ee7500a51f844c2fdafb5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/1aab5f48489a0095d079a08ac3b510eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/1aab5f48489a0095d079a08ac3b510eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3abf5abc05a85508edcf5cdaa3a4ca14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3abf5abc05a85508edcf5cdaa3a4ca14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/a4d0b2721ee2c630a3d7556d7b7a2f4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/a4d0b2721ee2c630a3d7556d7b7a2f4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9754bbca42487292b23127bae1475aa9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/9754bbca42487292b23127bae1475aa9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/60d1270c018a2981d72de30d5d49395e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/60d1270c018a2981d72de30d5d49395e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/62277390ce331d9ebf2724f30086b0f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/62277390ce331d9ebf2724f30086b0f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/78433c0a4f3f15d5b3e05ab5079f1620/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/78433c0a4f3f15d5b3e05ab5079f1620/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/e70161d27092924eb6751c9a5fea80d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/e70161d27092924eb6751c9a5fea80d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/90059ef4d928a8c6b205204ad3b6aa1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/90059ef4d928a8c6b205204ad3b6aa1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/23da7e46e63a85e3393467a9fa6b368c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/23da7e46e63a85e3393467a9fa6b368c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/8b30836b7f0ceaa75271c632791cbb7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/8b30836b7f0ceaa75271c632791cbb7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e70c8c3d09a8cebca0085ec0313d1c59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/e70c8c3d09a8cebca0085ec0313d1c59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/cbae059f24a93dad8c68f5cc478c9925/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/cbae059f24a93dad8c68f5cc478c9925/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8e025e86327165798076dc3ef0a46006/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8e025e86327165798076dc3ef0a46006/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/0f6483f735fbddba1928b412696dd041/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/0f6483f735fbddba1928b412696dd041/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/a19b5549fa107b3793809287adb92515/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/a19b5549fa107b3793809287adb92515/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/9d2c1fbcb2b30331c4ab0ee3f6c55d7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/square/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/9d2c1fbcb2b30331c4ab0ee3f6c55d7f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/square/development/Dev/Clima-Flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/59a094e0bba160adf2a0ba6bc2a8e0d8/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/59a094e0bba160adf2a0ba6bc2a8e0d8/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/59a094e0bba160adf2a0ba6bc2a8e0d8/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/59a094e0bba160adf2a0ba6bc2a8e0d8/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ce86755dccfa01453abaaf4afbb873e4/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ce86755dccfa01453abaaf4afbb873e4/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/square/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/ce86755dccfa01453abaaf4afbb873e4/AndroidManifest.xml:24:13-58
